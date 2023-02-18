@@ -15,8 +15,8 @@ Metlo is a simple Python application that allows you to test the security of a w
 
 # Example Usage
 Here's an example of how to use the Metlo application:
-![app](https://github.com/Roshanlj/Metlo---API/blob/main/screenshots/us1.PNG)
-![app-use](https://github.com/Roshanlj/Metlo---API/blob/main/screenshots/us2.PNG)
+<img src="screenshots/us1.PNG" class="img-responsive" alt="">
+<img src="screenshots/us2.PNG" class="img-responsive" alt="">
 
 
 
